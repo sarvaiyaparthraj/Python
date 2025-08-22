@@ -1,0 +1,14 @@
+
+
+while True: 
+ 
+     num=int(input("enter a nuber (1 to 99):  "))
+
+     if num == 0: 
+          
+          print("program stopped.") 
+
+          break
+     
+     else:
+          print("you entered:", num)
