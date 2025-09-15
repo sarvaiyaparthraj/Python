@@ -2,9 +2,9 @@
 
 while True: 
  
-     num=int(input("enter a nuber (1 to 99):  "))
+     num=int(input("enter a nuber (2 to 99):  "))
 
-     if num == 0: 
+     if num == 99: 
           
           print("program stopped.") 
 
